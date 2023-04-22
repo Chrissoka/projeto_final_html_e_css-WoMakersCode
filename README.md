@@ -13,7 +13,7 @@ Um página simples de html e seu conteúdo base apresentado no site está divido
 - Foto de perfil.
 - Uma breve descrição da autora do site.
 - Cursos realizados.
-~~~
+
 
 ~~~css
 O arquivo css contém as principais configurações para deixar o layout e conteúdo do site legíveis e responsivos. Exemplos:

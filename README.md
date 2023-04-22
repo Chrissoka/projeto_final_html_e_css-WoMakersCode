@@ -26,13 +26,12 @@ Exemplos:
 - Utilização de 'var' para deixar o código limpo e enxuto.
 ~~~
 
+<h3>CLIQUE NO LINK E VEJA O PROJETO</h3>
+
+[Christiane](http://127.0.0.1:5500/index.html)
+
 <h5>Este projeto irá sofrer alterações futuras!</h5>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
-
-<h3>SITE</h3>
-
-[Christiane](http://127.0.0.1:5500/index.html)
 
 <img src="capafoquinha.png" alt="foquinha" width="200"/>

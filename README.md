@@ -19,8 +19,8 @@ Um página simples de html e seu conteúdo base apresentado no site está divido
 
 CSS
 O arquivo css contém as principais configurações para deixar o layout e conteúdo do site legíveis e responsivos.
- Exemplos:
- 
+Exemplos:
+
 - A organização das 'classes' em ordem do que é apresentado no html.
 - Uso de 'pseudo-classe' para a organização do código.
 - Utilização de 'var' para deixar o código limpo e enxuto.
@@ -31,6 +31,6 @@ O arquivo css contém as principais configurações para deixar o layout e conte
 
 
 <h3>SITE</h3>
-[Christiane Dias](http://127.0.0.1:5500/index.html)
+[ChristianeDias](http://127.0.0.1:5500/index.html)
 
 <img src="capafoquinha.png" alt="foquinha" width="200"/>

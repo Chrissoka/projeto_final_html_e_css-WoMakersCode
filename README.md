@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90460886/233806739-51fbc55d-eb94-4eac-b361-fd23ab3403a8.png" width="200px" />
+<img src="https://user-images.githubusercontent.com/90460886/233808203-1aea5e47-f6f3-4432-810d-9d3f40332fb9.png"/>
 </div>
 <h1 align="center"> Site Pessoal - Christiane Rodrigues Dias </h1>
 
@@ -30,10 +30,10 @@ Exemplos:
 
 <h3>PROJETO</h3>
 
-[Portifólio](http://127.0.0.1:5500/index.html) ![cofee](https://user-images.githubusercontent.com/90460886/233807470-e96f3c71-4955-4143-9ab3-e6637cfc5396.gif)
+[Portifólio](http://127.0.0.1:5500/index.html) ![cofee](https://user-images.githubusercontent.com/90460886/233808228-d619e096-42e2-4959-aad5-965449619d96.gif)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90460886/233806739-51fbc55d-eb94-4eac-b361-fd23ab3403a8.png" width="200px" />
+<img src="https://user-images.githubusercontent.com/90460886/233808203-1aea5e47-f6f3-4432-810d-9d3f40332fb9.png"/>
 </div>

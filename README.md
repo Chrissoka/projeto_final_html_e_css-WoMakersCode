@@ -1,4 +1,6 @@
-<img src="capafoquinha.png" alt="foquinha" width="200"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/90460886/233806739-51fbc55d-eb94-4eac-b361-fd23ab3403a8.png" width="200px" />
+</div>
 <h1 align="center"> Site Pessoal - Christiane Rodrigues Dias </h1>
 
 <h3 align="center">DESCRIÇÃO DO PROJETO</h3>
@@ -28,10 +30,13 @@ Exemplos:
 
 <h3>CLIQUE NO LINK E VEJA O PROJETO</h3>
 
-[Christiane](http://127.0.0.1:5500/index.html)
+[Portifólio](http://127.0.0.1:5500/index.html)
 
-<h5>Este projeto irá sofrer alterações futuras!</h5>
+<h5>Este projeto irá sofrer alterações futuras!</h5> 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-<img src="capafoquinha.png" alt="foquinha" width="200"/>
+<img src="capafoquinha.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/90460886/233806739-51fbc55d-eb94-4eac-b361-fd23ab3403a8.png" width="200px" />
+</div>

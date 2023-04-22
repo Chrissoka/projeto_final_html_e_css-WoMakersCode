@@ -10,6 +10,7 @@
 ~~~
 HTML
 Um página simples de html e seu conteúdo base apresentado no site está divido em:
+
 - Redes sociais e contatos.
 - Foto de perfil.
 - Uma breve descrição da autora do site.
@@ -17,7 +18,9 @@ Um página simples de html e seu conteúdo base apresentado no site está divido
 
 
 CSS
-O arquivo css contém as principais configurações para deixar o layout e conteúdo do site legíveis e responsivos. Exemplos:
+O arquivo css contém as principais configurações para deixar o layout e conteúdo do site legíveis e responsivos.
+ Exemplos:
+ 
 - A organização das 'classes' em ordem do que é apresentado no html.
 - Uso de 'pseudo-classe' para a organização do código.
 - Utilização de 'var' para deixar o código limpo e enxuto.

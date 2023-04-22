@@ -103,11 +103,11 @@ padding: 4px ;
 }
 
 .curso{
-background-color:#c99e93 ;
-padding: 8px;
-margin: 16px 0;
-box-sizing: border-box;
-border-radius: 7px;
+    background-color:#c99e93 ;
+    padding: 8px;
+    margin: 16px 0;
+    box-sizing: border-box;
+    border-radius: 7px;
 }
 
 .curso__titulo{

@@ -32,7 +32,12 @@ Exemplos:
 
 [Portifólio](http://127.0.0.1:5500/index.html)
 
+
+<span>
+
 <img scr="https://user-images.githubusercontent.com/90460886/233807470-e96f3c71-4955-4143-9ab3-e6637cfc5396.gif">Este projeto irá sofrer alterações futuras!</h3>
+
+</span>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 

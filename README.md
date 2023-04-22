@@ -28,15 +28,14 @@ Exemplos:
 - Utilização de 'var' para deixar o código limpo e enxuto.
 ~~~
 
-<h3>CLIQUE NO LINK E VEJA O PROJETO</h3>
+<h3>PROJETO</h3>
 
 [Portifólio](http://127.0.0.1:5500/index.html)
 
-<h5>Este projeto irá sofrer alterações futuras!</h5> 
+<h5>Este projeto irá sofrer alterações futuras!</h5> <img scr="https://user-images.githubusercontent.com/90460886/233807470-e96f3c71-4955-4143-9ab3-e6637cfc5396.gif"/>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-<img src="capafoquinha.
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90460886/233806739-51fbc55d-eb94-4eac-b361-fd23ab3403a8.png" width="200px" />
 </div>

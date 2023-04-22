@@ -7,7 +7,8 @@
 
 <h3 align="center">FUNCIONALIDADES</h3>
 
-~~~html
+~~~
+HTML
 Um página simples de html e seu conteúdo base apresentado no site está divido em:
 - Redes sociais e contatos.
 - Foto de perfil.
@@ -15,14 +16,14 @@ Um página simples de html e seu conteúdo base apresentado no site está divido
 - Cursos realizados.
 
 
-~~~css
+CSS
 O arquivo css contém as principais configurações para deixar o layout e conteúdo do site legíveis e responsivos. Exemplos:
-- A organização das classes em ordem do que é apresentado no html.
-- Uso de *pseudo-classe* para a organização do código.
-- Utilização de *var* para deixar o código limpo e enxuto.
+- A organização das 'classes' em ordem do que é apresentado no html.
+- Uso de 'pseudo-classe' para a organização do código.
+- Utilização de 'var' para deixar o código limpo e enxuto.
 ~~~
 
-<p>Este projeto irá sofrer alterações futuras!</p>
+<h5>Este projeto irá sofrer alterações futuras!</h5>
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
